@@ -17,6 +17,8 @@ const edge: Edge = {
   uid: "1",
   isDirected: false,
   endpoint: ["start", "end"],
+  source: "",
+  target: ""
 };
 
 const directedEdge: Edge = {
